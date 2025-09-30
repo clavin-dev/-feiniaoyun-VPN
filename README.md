@@ -12,17 +12,35 @@
 
 ## 🚀 快捷入口（任意打不开就尝试下一个）
 
+<p>
+  <a href="http://uupa.net" target="_blank"><img alt="官网入口1" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A31-OPEN-blue?style=for-the-badge"></a>
+  <a href="http://uupa.xn--ezqyv86vry0c.com" target="_blank"><img alt="官网入口2" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A32-OPEN-blue?style=for-the-badge"></a>
+  <a href="http://47.238.116.126:40005" target="_blank"><img alt="官网入口3" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A33-OPEN-blue?style=for-the-badge"></a>
+  <a href="https://38.207.165.220:40002" target="_blank"><img alt="官网入口4" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A34-OPEN-blue?style=for-the-badge"></a>
+  <a href="http://38.47.107.10:40002" target="_blank"><img alt="官网入口5" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A35-OPEN-blue?style=for-the-badge"></a>
+  <a href="https://uupa.xn--ip0at7e.com" target="_blank"><img alt="官网入口6" src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91%E5%85%A5%E5%8F%A36-OPEN-blue?style=for-the-badge"></a>
+</p>
+
+<p>
+  <a href="https://107.174.196.99:25002" target="_blank"><img alt="教程入口" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B%E5%85%A5%E5%8F%A3-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top" target="_blank"><img alt="教程备用" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+  <a href="https://38.207.184.28:40001/s/2jAte" target="_blank"><img alt="APP 汇总下载" src="https://img.shields.io/badge/APP%20%E6%B1%87%E6%80%BB%E4%B8%8B%E8%BD%BD-Download-important?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/s/2jAte" target="_blank"><img alt="汇总备用" src="https://img.shields.io/badge/%E6%B1%87%E6%80%BB%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+</p>
+
+<details>
+<summary>显示备用直链（可复制）</summary>
+
 * 官网入口1：[http://uupa.net](http://uupa.net)
 * 官网入口2：[http://uupa.xn--ezqyv86vry0c.com](http://uupa.xn--ezqyv86vry0c.com)
 * 官网入口3：[http://47.238.116.126:40005](http://47.238.116.126:40005)
 * 官网入口4：[https://38.207.165.220:40002](https://38.207.165.220:40002)
 * 官网入口5：[http://38.47.107.10:40002](http://38.47.107.10:40002)
 * 官网入口6：[https://uupa.xn--ip0at7e.com](https://uupa.xn--ip0at7e.com)
+* 教程：[https://107.174.196.99:25002](https://107.174.196.99:25002)（备用：[https://fny.clavin.top](https://fny.clavin.top)）
+* APP 汇总：[https://38.207.184.28:40001/s/2jAte](https://38.207.184.28:40001/s/2jAte)（备用：[https://p.hktntkng.top/s/2jAte](https://p.hktntkng.top/s/2jAte)）
 
-**教程入口**：[https://107.174.196.99:25002](https://107.174.196.99:25002) （备用：[https://fny.clavin.top](https://fny.clavin.top)）
-**APP 汇总下载页**：[https://38.207.184.28:40001/s/2jAte](https://38.207.184.28:40001/s/2jAte) （备用：[https://p.hktntkng.top/s/2jAte](https://p.hktntkng.top/s/2jAte)）
-
-> 建议将本页加入书签，防失联。
+</details>
 
 ---
 
@@ -30,46 +48,73 @@
 
 ### Android（安卓）
 
-* **ARM64（arm64‑v8a）适配版**：
+**ARM64（arm64‑v8a）适配版**
 
-  * 主链：[https://38.207.184.28:40001/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk](https://38.207.184.28:40001/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk)
-  * 备用：[https://p.hktntkng.top/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk](https://p.hktntkng.top/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk)
-  * 教程：[https://107.174.196.99:25002/fny/an-zhuo-hong-meng-xia-zai-shi-yong](https://107.174.196.99:25002/fny/an-zhuo-hong-meng-xia-zai-shi-yong)（备用：[https://fny.clavin.top/fny/an-zhuo-hong-meng-xia-zai-shi-yong](https://fny.clavin.top/fny/an-zhuo-hong-meng-xia-zai-shi-yong)）
-* **ARMv7（armeabi‑v7a）通用版**：
+<p>
+  <a href="https://38.207.184.28:40001/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk" target="_blank"><img alt="ARM64 下载" src="https://img.shields.io/badge/ARM64%20%E4%B8%8B%E8%BD%BD-APK-blue?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/f/250Cw/%E5%AE%89%E5%8D%93%E9%80%82%E9%85%8D%E7%89%88-F3.7.apk" target="_blank"><img alt="ARM64 备用" src="https://img.shields.io/badge/ARM64%20%E5%A4%87%E7%94%A8-APK-lightgrey?style=for-the-badge"></a>
+  <a href="https://107.174.196.99:25002/fny/an-zhuo-hong-meng-xia-zai-shi-yong" target="_blank"><img alt="安卓教程" src="https://img.shields.io/badge/%E5%AE%89%E5%8D%93%E6%95%99%E7%A8%8B-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top/fny/an-zhuo-hong-meng-xia-zai-shi-yong" target="_blank"><img alt="安卓教程备用" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+</p>
 
-  * 主链：[https://38.207.184.28:40001/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk](https://38.207.184.28:40001/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk)
-  * 备用：[https://p.hktntkng.top/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk](https://p.hktntkng.top/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk)
-  * 教程：同上
+**ARMv7（armeabi‑v7a）通用版**
+
+<p>
+  <a href="https://38.207.184.28:40001/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk" target="_blank"><img alt="ARMv7 下载" src="https://img.shields.io/badge/ARMv7%20%E4%B8%8B%E8%BD%BD-APK-blue?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/f/5gqf2/%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E7%89%88-F3.7.apk" target="_blank"><img alt="ARMv7 备用" src="https://img.shields.io/badge/ARMv7%20%E5%A4%87%E7%94%A8-APK-lightgrey?style=for-the-badge"></a>
+</p>
 
 ### Windows（Win10/11）
 
-* 安装包：**飞鸟云 Setup 1.3.4.exe**
-  主链：[https://38.207.184.28:40001/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe](https://38.207.184.28:40001/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe)
-  备用：[https://p.hktntkng.top/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe](https://p.hktntkng.top/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe)
-  教程：[https://107.174.196.99:25002/fny/windows-xia-zai-shi-yong](https://107.174.196.99:25002/fny/windows-xia-zai-shi-yong)（备用：[https://fny.clavin.top/fny/windows-xia-zai-shi-yong](https://fny.clavin.top/fny/windows-xia-zai-shi-yong)）
+<p>
+  <a href="https://38.207.184.28:40001/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe" target="_blank"><img alt="Windows 安装包" src="https://img.shields.io/badge/Windows%20%E5%AE%89%E8%A3%85%E5%8C%85-EXE-blue?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/f/4M5fx/%E9%A3%9E%E9%B8%9F%E4%BA%91%20Setup%201.3.4.exe" target="_blank"><img alt="Windows 备用" src="https://img.shields.io/badge/Windows%20%E5%A4%87%E7%94%A8-EXE-lightgrey?style=for-the-badge"></a>
+  <a href="https://107.174.196.99:25002/fny/windows-xia-zai-shi-yong" target="_blank"><img alt="Windows 教程" src="https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top/fny/windows-xia-zai-shi-yong" target="_blank"><img alt="Windows 教程备用" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+</p>
 
 ### macOS（苹果电脑）
 
-* **M 系列（ARM，M1‑M5）**：
+**M 系列（ARM，M1‑M5）**
 
-  * 主链：[https://38.207.184.28:40001/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg](https://38.207.184.28:40001/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg)
-  * 备用：[https://p.hktntkng.top/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg](https://p.hktntkng.top/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg)
-* **Intel 芯片**：
+<p>
+  <a href="https://38.207.184.28:40001/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg" target="_blank"><img alt="macOS ARM 下载" src="https://img.shields.io/badge/macOS%20(ARM)-DMG-blue?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/f/vrzfQ/Mac%E6%96%B0%E6%AC%BEM1-M5-F3.7.dmg" target="_blank"><img alt="macOS ARM 备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+</p>
 
-  * 主链：[https://38.207.184.28:40001/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg](https://38.207.184.28:40001/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg)
-  * 备用：[https://p.hktntkng.top/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg](https://p.hktntkng.top/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg)
-* **通用汇总页**：[https://38.207.184.28:40001/s/2jAte](https://38.207.184.28:40001/s/2jAte)（备用：[https://p.hktntkng.top/s/2jAte](https://p.hktntkng.top/s/2jAte)）
-* 教程：[https://107.174.196.99:25002/fny/ping-guo-mac-xia-zai-shi-yong](https://107.174.196.99:25002/fny/ping-guo-mac-xia-zai-shi-yong)（备用：[https://fny.clavin.top/fny/ping-guo-mac-xia-zai-shi-yong](https://fny.clavin.top/fny/ping-guo-mac-xia-zai-shi-yong)）
+**Intel 芯片**
+
+<p>
+  <a href="https://38.207.184.28:40001/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg" target="_blank"><img alt="macOS Intel 下载" src="https://img.shields.io/badge/macOS%20(Intel)-DMG-blue?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/f/9zrcW/Mac%E8%80%81%E6%AC%BEIntel-F3.7.dmg" target="_blank"><img alt="macOS Intel 备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+</p>
+
+**通用汇总页 & 教程**
+
+<p>
+  <a href="https://38.207.184.28:40001/s/2jAte" target="_blank"><img alt="macOS 汇总" src="https://img.shields.io/badge/%E6%B1%87%E6%80%BB-%E4%B8%8B%E8%BD%BD-important?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/s/2jAte" target="_blank"><img alt="macOS 汇总备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+  <a href="https://107.174.196.99:25002/fny/ping-guo-mac-xia-zai-shi-yong" target="_blank"><img alt="macOS 教程" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top/fny/ping-guo-mac-xia-zai-shi-yong" target="_blank"><img alt="macOS 教程备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+</p>
 
 ### iOS（苹果手机/平板）
 
-* Apple ID 地址：[https://38.207.184.28:25000](https://38.207.184.28:25000)（备用：[http://apple.clavin.top](http://apple.clavin.top)）
-* 教程：[https://107.174.196.99:25002/fny/ping-guo-ios-shi-yong-jiao-cheng](https://107.174.196.99:25002/fny/ping-guo-ios-shi-yong-jiao-cheng)（备用：[https://fny.clavin.top/fny/ping-guo-ios-shi-yong-jiao-cheng](https://fny.clavin.top/fny/ping-guo-ios-shi-yong-jiao-cheng)）
+<p>
+  <a href="https://38.207.184.28:25000" target="_blank"><img alt="Apple ID 地址" src="https://img.shields.io/badge/Apple%20ID-%E8%AE%BF%E9%97%AE-blue?style=for-the-badge"></a>
+  <a href="http://apple.clavin.top" target="_blank"><img alt="Apple ID 备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+  <a href="https://107.174.196.99:25002/fny/ping-guo-ios-shi-yong-jiao-cheng" target="_blank"><img alt="iOS 教程" src="https://img.shields.io/badge/%E6%95%99%E7%A8%8B-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top/fny/ping-guo-ios-shi-yong-jiao-cheng" target="_blank"><img alt="iOS 教程备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+</p>
 
 ### 通用备用
 
-* 下载：[https://38.207.184.28:40001/s/2jAte](https://38.207.184.28:40001/s/2jAte)（备用：[https://p.hktntkng.top/s/2jAte](https://p.hktntkng.top/s/2jAte)）
-* 教程：[https://107.174.196.99:25002](https://107.174.196.99:25002)（备用：[https://fny.clavin.top](https://fny.clavin.top)）
+<p>
+  <a href="https://38.207.184.28:40001/s/2jAte" target="_blank"><img alt="通用下载" src="https://img.shields.io/badge/%E9%80%9A%E7%94%A8-%E4%B8%8B%E8%BD%BD-important?style=for-the-badge"></a>
+  <a href="https://p.hktntkng.top/s/2jAte" target="_blank"><img alt="通用备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Backup-lightgrey?style=for-the-badge"></a>
+  <a href="https://107.174.196.99:25002" target="_blank"><img alt="通用教程" src="https://img.shields.io/badge/%E9%80%9A%E7%94%A8-Docs-success?style=for-the-badge"></a>
+  <a href="https://fny.clavin.top" target="_blank"><img alt="通用教程备用" src="https://img.shields.io/badge/%E5%A4%87%E7%94%A8-Docs-lightgrey?style=for-the-badge"></a>
+</p>
 
 ---
 
