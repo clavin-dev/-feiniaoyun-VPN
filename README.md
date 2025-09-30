@@ -4,9 +4,6 @@
 
 [![README Status](https://img.shields.io/badge/render-GitHub%20Markdown-blue)](#)
 
-> 本页为 GitHub 友好的纯 Markdown 版本，去除了脚本与样式，方便在仓库首页直接正常显示。
-
-> **最后更新**：2025‑09‑30（UTC+8）
 
 ---
 
